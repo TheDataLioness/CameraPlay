@@ -1,0 +1,7 @@
+---
+name: CameraPlay
+version: 0.0.1
+main: DataLioness\CameraPlay\Main
+api: 5.16.0
+src-namespace-prefix: DataLioness\CameraPlay
+...
